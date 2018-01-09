@@ -1,6 +1,6 @@
 # betelife-desktop
 
-> An electron-vue project
+> An electron-vue project to a nonprofit organization
 
 #### Build Setup
 
