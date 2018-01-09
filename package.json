@@ -1,8 +1,8 @@
 {
   "name": "betelife-desktop",
   "version": "0.0.0",
-  "author": "mgalvc <matheusgocrreia@gmail.com>",
-  "description": "An electron-vue project",
+  "author": "mgalvc <matheusgcorreia@gmail.com>",
+  "description": "An electron-vue project to a nonprofit organization",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "build": {
     "productName": "betelife-desktop",
-    "appId": "org.simulatedgreg.electron-vue",
+    "appId": "org.matheusgcorreia.betelife-desktop",
     "directories": {
       "output": "build"
     },
